@@ -215,6 +215,7 @@ p {
   background: transparent;
   padding: 15px 0;
   width: 100%;
+  font-family: 'GH';
 }
 @media screen and (max-width: 768px) {
   #fh5co-header {
@@ -233,7 +234,7 @@ p {
   }
 }
 #fh5co-header #fh5co-logo a {
-  font-family: "Roboto Slab", sans-serif;
+  font-family: "GH","Roboto Slab", sans-serif;
   font-size: 30px;
   color: #fff;
 }
@@ -263,7 +264,7 @@ p {
   display: inline;
 }
 #fh5co-header #fh5co-main-nav ul li a {
-  font-family: "Roboto Slab", sans-serif;
+  font-family: "GH","Roboto Slab", sans-serif;
   color: rgba(255, 255, 255, 0.8);
   text-decoration: none;
   margin-left: 30px;
