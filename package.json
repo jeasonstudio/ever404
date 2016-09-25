@@ -1,0 +1,23 @@
+{
+  "name": "ever404",
+  "version": "1.0.0",
+  "description": "ever404",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeasonstudio/ever404.git"
+  },
+  "keywords": [
+    "ever",
+    "ever404"
+  ],
+  "author": "Jeason",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeasonstudio/ever404/issues"
+  },
+  "homepage": "https://github.com/jeasonstudio/ever404#readme"
+}
