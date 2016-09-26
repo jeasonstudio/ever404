@@ -165,9 +165,9 @@
 		  	event.preventDefault();
 		  	var linkLocation = this.href;
 
-		  	$("body").fadeOut(2000, redirectPage);      
+		  	// $("body").fadeOut(2000, redirectPage);      
 		  	
-		  	redirectPage(linkLocation);
+		  	// redirectPage(linkLocation);
 		});
 			
 	};
