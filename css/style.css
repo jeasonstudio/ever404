@@ -49,7 +49,7 @@ a:hover, a:focus, a:active {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Roboto Slab", sans-serif;
+  font-family: "GH","微软雅黑","Roboto Slab", sans-serif;
   color: #000;
 }
 
@@ -518,7 +518,7 @@ p {
     padding: 0 0 20px 0;
   }
 }
-#fh5co-about .fh5co-text .fh5co-meta {
+#fh5co-about .fh5co-text .question-discribe {
   color: rgba(255, 255, 255, 0.2);
   text-transform: uppercase;
   letter-spacing: 2px;
@@ -748,13 +748,13 @@ p {
   -o-transition: 0.8s, ease-out;
   transition: 0.8s, ease-out;
 }
-.img-grid a .fh5co-title {
+.img-grid a .question-title {
   font-size: 18px;
   color: #fff;
   padding: 0;
   position: relative;
 }
-.img-grid a .fh5co-meta {
+.img-grid a .question-discribe {
   color: rgba(255, 255, 255, 0.4);
   font-size: 10px;
   font-weight: 400;
@@ -764,7 +764,7 @@ p {
   padding-bottom: 7px;
   text-transform: uppercase;
 }
-.img-grid a .fh5co-meta:after {
+.img-grid a .question-discribe:after {
   content: "";
   position: absolute;
   bottom: 0;

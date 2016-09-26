@@ -14,7 +14,7 @@
 }
 
 * {
-    font-family: "GH"!important;
+    font-family: "GH","微软雅黑"!important;
 }
 
 [class^="icon-"], [class*=" icon-"] {
