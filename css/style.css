@@ -980,4 +980,12 @@ p {
   }
 }
 
+.keySubmit {
+  padding: 0!important;
+  margin-top: 40px;
+  display: block;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
 /*# sourceMappingURL=style.css.map */
